@@ -8,9 +8,9 @@ int main()
   cm=m*100;
   inch=cm/2.54;
   ft=inch/12;
-  printf("Distance in mete=%f\n,m);
-  printf("Distance in centimeter=%f,cm);
-  printf("Distance in inches=%f,inch);
-  printf("Distance in feet=%f,ft);
+  printf("Distance in mete=%f\n",m);
+  printf("Distance in centimeter=%f",cm);
+  printf("Distance in inches=%f",inch);
+  printf("Distance in feet=%f",ft);
   return 0;
 } 
